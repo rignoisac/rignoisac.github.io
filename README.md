@@ -1,2 +1,2 @@
 # rignoisac.github.io
-My personal blog about travel, life, fashion
+My personal blog about travel, life, fashion.
